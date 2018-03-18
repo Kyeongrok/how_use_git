@@ -10,7 +10,7 @@
 
 ## local repository(로컬 리포지토리)만들기
   * mkdir <프로젝트명>
-  ** ex) mkdir how_use_git
+  ex) mkdir how_use_git
 
   * git init
   * git add README.md
