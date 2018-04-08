@@ -17,3 +17,11 @@
   * git commit -m "first commit"
   * git remote add origin https://github.com/Kyeongrok/how_use_git.git
   * git push -u origin master
+
+## remote repository란?
+    * 
+
+## clone하는 법
+    * remote git repository 주소를 복사 한다.
+    * git clone <복사한주소>
+    * 위 명령어를 쓴다.
