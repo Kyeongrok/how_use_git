@@ -19,9 +19,16 @@
   * git push -u origin master
 
 ## remote repository란?
-    * 
+    * github, bitbucket, aws codecommit 등 온라인 저장소
+    * remote라고 한다.
 
 ## clone하는 법
     * remote git repository 주소를 복사 한다.
     * git clone <복사한주소>
     * 위 명령어를 쓴다.
+  
+## ws와 git을 연동 시키려면?
+    * remote repository를 만든다
+    * local repository를 만든다.
+    * local repository를 remote repository에 올린다.
+    
